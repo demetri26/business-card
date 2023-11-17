@@ -1,0 +1,25 @@
+.img-profile {
+	width: 150px;
+	display: inline;
+	border: 2px solid #222222;
+}
+
+.card {
+	background-color: teal;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid #222222;
+	width: 400px;	
+	margin: 0px auto;
+	text-align: center;
+	color: #222222;
+}
+
+.bottom-border {
+	border-bottom: 5px solid orange;
+}
+
+body {
+	font-family: Verdana;
+}
